@@ -1,3 +1,4 @@
+//Joseph Ntsabelle
 function solveEarthPuzzle() {
     const letters = ["N", "O", "R", "T", "H", "E", "A", "S", "U", "W"];
     const results = [];
